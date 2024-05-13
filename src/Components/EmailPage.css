@@ -1,0 +1,31 @@
+.email-page-wrapper{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+}
+.email-page{
+    height: 300px;
+    width: 30%;
+    border: 1px solid black;
+    background-color: snow;
+    box-shadow: rgba(137, 144, 151, 0.2) 0px 8px 24px;
+    justify-content: start;
+    align-items: start;
+    text-align: start;
+    padding: 1rem;
+}
+.checkbox-male-femal-wrapper{
+    padding-top: 1rem;
+    
+  
+}
+#male-checkbox , #female-checkbox {
+    border-radius:50%;
+    width: 16px;
+    height: 16px;
+    font-weight: bold;
+    font-style: italic;
+    margin: 8px;
+    
+}
